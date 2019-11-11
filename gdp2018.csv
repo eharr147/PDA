@@ -1,52 +1,52 @@
-state_name,gdp_dollars,gdp_growth
-Alabama ,225859,2.8
-Alaska ,55591,0.7
-Arizona ,355333,4.1
-Arkansas,130201,1.7
-California ,3052871,4.3
-Colorado ,378489,3.5
-Connecticut,277874,0.5
-Delaware ,74348,0
-District of Columbia ,142626,2.5
-Florida ,1056014,3.2
-Georgia ,602535,2.4
-Hawaii ,95369,2.4
-Idaho ,78707,4
-Illinois ,877010,2.1
-Indiana,371183,2
-Iowa ,191038,2.2
-Kansas,170243,2.1
-Kentucky,211073,1.4
-Louisiana ,261479,2.6
-Maine ,65545,2.2
-Maryland ,417976,2.5
-Massachusetts ,577754,3.1
-Michigan ,531835,2.5
-Minnesota ,374682,2.6
-Mississippi ,116252,1.3
-Missouri ,322972,2.4
-Montana ,51390,2.6
-Nebraska,124690,0.9
-Nevada,173518,4.2
-New Hampshire ,85075,2.3
-New Jersey,629996,2.2
-New Mexico,102370,2.5
-New York,1679944,1.2
-North Carolina ,572469,2.4
-North Dakota ,56968,3.6
-Ohio ,685299,1.9
-Oklahoma,205854,2.6
-Oregon ,244544,3.8
-Pennsylvania ,794604,2.6
-Rhode Island ,61612,1.2
-South Carolina ,239176,2.6
-South Dakota ,52632,1.9
-Tennessee ,369733,3.1
-Texas,1842447,4
-Utah ,181214,3.7
-Vermont ,33670,1.2
-Virginia ,540716,2.6
-Washington,577581,5.8
-West Virginia ,78766,2.3
-Wisconsin ,340853,2.4
-Wyoming ,39613,0.1
+state_name,state_abbr,gdp_dollars,gdp_growth
+Alabama ,AL,225859,2.8
+Alaska ,AK,55591,0.7
+Arizona ,AZ,355333,4.1
+Arkansas,AR,130201,1.7
+California ,CA,3052871,4.3
+Colorado ,CO,378489,3.5
+Connecticut,CT,277874,0.5
+Delaware ,DE,74348,0
+District of Columbia ,DC,142626,2.5
+Florida ,FL,1056014,3.2
+Georgia ,GA,602535,2.4
+Hawaii ,HI,95369,2.4
+Idaho ,ID,78707,4
+Illinois ,IL,877010,2.1
+Indiana,IN,371183,2
+Iowa ,IA,191038,2.2
+Kansas,KS,170243,2.1
+Kentucky,KY,211073,1.4
+Louisiana ,LA,261479,2.6
+Maine ,ME,65545,2.2
+Maryland ,MD,417976,2.5
+Massachusetts ,MA,577754,3.1
+Michigan ,MI,531835,2.5
+Minnesota ,MN,374682,2.6
+Mississippi ,MS,116252,1.3
+Missouri ,MO,322972,2.4
+Montana ,MT,51390,2.6
+Nebraska,NE,124690,0.9
+Nevada,NV,173518,4.2
+New Hampshire ,NH,85075,2.3
+New Jersey,NJ,629996,2.2
+New Mexico,NM,102370,2.5
+New York,NY,1679944,1.2
+North Carolina ,NC,572469,2.4
+North Dakota ,ND,56968,3.6
+Ohio ,OH,685299,1.9
+Oklahoma,OK,205854,2.6
+Oregon ,OR,244544,3.8
+Pennsylvania ,PA,794604,2.6
+Rhode Island ,RI,61612,1.2
+South Carolina ,SC,239176,2.6
+South Dakota ,SD,52632,1.9
+Tennessee ,TN,369733,3.1
+Texas,TX,1842447,4
+Utah ,UT,181214,3.7
+Vermont ,VT,33670,1.2
+Virginia ,VA,540716,2.6
+Washington,WA,577581,5.8
+West Virginia ,WV,78766,2.3
+Wisconsin ,WI,340853,2.4
+Wyoming ,WY,39613,0.1
